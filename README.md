@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Prince
-- 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Everything
 
 <!---
 merlcesdets2/merlcesdets2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
